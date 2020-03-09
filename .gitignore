@@ -1,1 +1,5 @@
-reversi
+
+Reversi/.vs/*
+Reversi/Debug/*
+Reversi/out/*
+Reversi/x64/*
